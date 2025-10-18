@@ -1,4 +1,4 @@
-# 🧠 Advanced Text Summarizer
+# 🧠 Advanced Text Summarizer & Multilingual Translator
 This project is a powerful and intuitive web application for text summarization and translation. Built with Streamlit and leveraging the Hugging Face Transformers library, it allows users to condense long articles, documents, or paragraphs into concise summaries. It supports both manual text input and file uploads (PDF, TXT) and offers multilingual translation for the generated summaries.
 
 The application is built entirely in Python, using the facebook/bart-large-cnn model for high-quality abstractive summarization and Google Translate for language support.
