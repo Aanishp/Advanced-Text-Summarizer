@@ -65,7 +65,7 @@ http://localhost:8501
 
 ## 👥 Team Members  
 🚀 [Aanish P](https://github.com/Aanishp)  
-🚀 [](https://github.com/prajwal50)  
+🚀[M.S.Prajwal](https://github.com/prajwal50)  
 🚀 [](https://github.com/VamshiNandhanReddy)  
 🚀 []()  
 
